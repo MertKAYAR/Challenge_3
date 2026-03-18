@@ -1,0 +1,7 @@
+"Şu an elimde çalışan temel bir index.tsx (Tamagotchi) kodu var. Senden bu kodu bir 'Senior Developer' gibi profesyonelleştirmeni ve modernize etmeni istiyorum:
+
+Modern UI/UX: StyleSheet kullanarak 'Dark Mode' temalı, profesyonel ve göze hitap eden bir arayüz tasarla. Kart yapısı (card layout) ve yumuşak köşeler kullan.
+Dinamik Görseller: Açlık ve mutluluk değerlerine göre değişen büyük bir ana emoji/karakter ekle (Örn: aclik > 80 ise 💀, mutluluk > 80 ise 😍, normalde 🙂).
+İlerleme Çubukları: Sayısal değerler yerine görsel ProgressBar mantığı kur (View bileşenleriyle genişliği değişen renkli çubuklar yapabilirsin).
+Clean Code & Refactor: Kodu StatCard veya ActionButton gibi küçük alt bileşenlere (sub-components) ayır. StyleSheet.create kullanarak stilleri yönet.
+Teknik Açıklama: Neleri neden değiştirdiğini (örneğin: neden bileşenlere ayırdık, neden StyleSheet kullandık) 2-3 madde ile açıkla."
