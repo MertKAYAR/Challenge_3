@@ -21,4 +21,4 @@ Proje geliştirilirken AI asistanına şu kritik "Senior Developer" promptu veri
 > **Öğrendiğim Detay:** Senior Developer promptu sayesinde, büyük bir kod bloğunu yönetilebilir küçük parçalara ayırmanın (**Component-Based Architecture**) kodun okunabilirliğini ve bakımını ne kadar kolaylaştırdığını gördüm. Ayrıca, `StyleSheet` kullanarak stilleri mantıksal bir yapıda tutmanın projeyi basit bir ödevden "gerçek bir ürün" seviyesine taşıdığını deneyimledim.
 
 ## 📸 Ekran Görüntüsü
-*(Buraya uygulamanın ekran görüntüsünü eklemeyi unutma! Örn: ![App Screenshot](./screenshot.png))*
+*(![App Screenshot](./screenshot.png))*
